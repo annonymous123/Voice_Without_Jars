@@ -1,0 +1,58 @@
+2013-07-30 04:17:39 [pool-1-thread-1] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+2013-07-30 04:17:39 [pool-1-thread-1] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.2.2.Final}
+2013-07-30 04:17:39 [pool-1-thread-1] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+2013-07-30 04:17:39 [pool-1-thread-1] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+2013-07-30 04:17:39 [pool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2013-07-30 04:17:39 [pool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000040: Configuration resource: /hibernate.cfg.xml
+2013-07-30 04:17:39 [pool-1-thread-1] WARN  org.hibernate.internal.util.xml.DTDEntityResolver  - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2013-07-30 04:17:39 [pool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000221: Reading mappings from resource: Patient.hbm.xml
+2013-07-30 04:17:39 [pool-1-thread-1] WARN  org.hibernate.internal.util.xml.DTDEntityResolver  - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2013-07-30 04:17:39 [pool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000221: Reading mappings from resource: IvrMsg.hbm.xml
+2013-07-30 04:17:39 [pool-1-thread-1] WARN  org.hibernate.internal.util.xml.DTDEntityResolver  - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2013-07-30 04:17:39 [pool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000221: Reading mappings from resource: SmsMsg.hbm.xml
+2013-07-30 04:17:39 [pool-1-thread-1] WARN  org.hibernate.internal.util.xml.DTDEntityResolver  - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2013-07-30 04:17:39 [pool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000221: Reading mappings from resource: Alert.hbm.xml
+2013-07-30 04:17:39 [pool-1-thread-1] WARN  org.hibernate.internal.util.xml.DTDEntityResolver  - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2013-07-30 04:17:40 [pool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000221: Reading mappings from resource: PAlert.hbm.xml
+2013-07-30 04:17:40 [pool-1-thread-1] WARN  org.hibernate.internal.util.xml.DTDEntityResolver  - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2013-07-30 04:17:40 [pool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000041: Configured SessionFactory: null
+2013-07-30 04:17:40 [pool-1-thread-1] INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2013-07-30 04:17:40 [pool-1-thread-1] INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20
+2013-07-30 04:17:40 [pool-1-thread-1] INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000006: Autocommit mode: false
+2013-07-30 04:17:40 [pool-1-thread-1] INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000401: using driver [org.gjt.mm.mysql.Driver] at URL [jdbc:mysql://127.0.0.1/atul]
+2013-07-30 04:17:40 [pool-1-thread-1] INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000046: Connection properties: {user=atul, password=****}
+2013-07-30 04:17:40 [pool-1-thread-1] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2013-07-30 04:17:40 [pool-1-thread-1] INFO  org.hibernate.engine.jdbc.internal.LobCreatorBuilder  - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2013-07-30 04:17:40 [pool-1-thread-1] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2013-07-30 04:17:40 [pool-1-thread-1] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+2013-07-30 04:17:41 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.SchemaValidator  - HHH000229: Running schema validator
+2013-07-30 04:17:41 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.SchemaValidator  - HHH000102: Fetching database metadata
+2013-07-30 04:17:41 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000261: Table found: atul.alert
+2013-07-30 04:17:41 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000037: Columns: [alerttype, msgid, retrycount, scheduletime, serviceinfo, isexecuted, lasttry, pid, aid]
+2013-07-30 04:17:41 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000261: Table found: atul.ivrMsg
+2013-07-30 04:17:41 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000037: Columns: [content, id, itemnumber, ivrid]
+2013-07-30 04:17:41 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000261: Table found: atul.pAlert
+2013-07-30 04:17:41 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000037: Columns: [alerttype, paid, pid]
+2013-07-30 04:17:41 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000261: Table found: atul.patient
+2013-07-30 04:17:41 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000037: Columns: [pname, preferlanguage, snumber, pid, pnumber]
+2013-07-30 04:17:41 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000261: Table found: atul.smsMsg
+2013-07-30 04:17:41 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000037: Columns: [content, id, smsid, itemnumber]
+2013-07-30 04:17:41 [pool-1-thread-1] INFO  org.raxa.scheduler.GetAlertInfo  - Getting the alerts for the patient who need to be called before:Tue Jul 30 04:17:39 IST 2013
+2013-07-30 04:17:41 [pool-1-thread-1] INFO  org.raxa.scheduler.GetAlertInfo  - Trying to get the max retry count
+2013-07-30 04:17:42 [pool-2-thread-1] INFO  org.raxa.scheduler.OutgoingCallManager  - Placing the call to patient with phone number-1234567890 having alertId-261d16d9-95dc-4545-a194-91411437df8d and msgId-30 and preferLanguage hindi
+2013-07-30 04:17:42 [pool-2-thread-1] INFO  org.raxa.scheduler.OutgoingCallManager  - Trying to fetch the notation for the prefer language:hindi
+2013-07-30 04:17:42 [pool-2-thread-1] INFO  org.asteriskjava.manager.internal.ManagerConnectionImpl  - Connecting to 127.0.0.1:5038
+2013-07-30 04:17:42 [Asterisk-Java ManagerConnection-0-Reader-0] INFO  org.asteriskjava.manager.internal.ManagerConnectionImpl  - Connected via Asterisk Call Manager/1.3
+2013-07-30 04:17:42 [pool-2-thread-1] INFO  org.asteriskjava.manager.internal.ManagerConnectionImpl  - Successfully logged in
+2013-07-30 04:17:42 [pool-2-thread-1] INFO  org.asteriskjava.manager.internal.ManagerConnectionImpl  - Determined Asterisk version: Asterisk 11
+2013-07-30 04:17:42 [pool-2-thread-1] INFO  org.raxa.scheduler.OutgoingCallManager  - Asterisk response for call to phone-SIP/1000abc
+2013-07-30 04:17:42 [pool-2-thread-1] INFO  org.raxa.scheduler.OutgoingCallManager  - Success
+2013-07-30 04:17:42 [pool-2-thread-1] INFO  org.asteriskjava.manager.internal.ManagerConnectionImpl  - Closing socket.
+2013-07-30 04:17:42 [Asterisk-Java ManagerConnection-0-Reader-0] INFO  org.asteriskjava.manager.internal.ManagerReaderImpl  - Terminating reader thread: No more lines available: null
+2013-07-30 04:17:42 [pool-2-thread-1] INFO  org.raxa.scheduler.Caller  - Placed a call to the patient with aid 261d16d9-95dc-4545-a194-91411437df8d
+2013-07-30 04:18:31 [pool-1-thread-1] INFO  org.raxa.scheduler.GetAlertInfo  - Getting the alerts for the patient who need to be called before:Tue Jul 30 04:18:31 IST 2013
+2013-07-30 04:18:31 [pool-1-thread-1] INFO  org.raxa.scheduler.GetAlertInfo  - Trying to get the max retry count
+2013-07-30 04:18:31 [pool-1-thread-1] INFO  org.raxa.scheduler.AlertSetter  - In CallSetter:run-No IVRTuple found for the next interval
+2013-07-30 04:19:21 [pool-1-thread-1] INFO  org.raxa.scheduler.GetAlertInfo  - Getting the alerts for the patient who need to be called before:Tue Jul 30 04:19:21 IST 2013
+2013-07-30 04:19:21 [pool-1-thread-1] INFO  org.raxa.scheduler.GetAlertInfo  - Trying to get the max retry count
+2013-07-30 04:19:21 [pool-1-thread-1] INFO  org.raxa.scheduler.AlertSetter  - In CallSetter:run-No IVRTuple found for the next interval

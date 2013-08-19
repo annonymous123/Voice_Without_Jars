@@ -1,0 +1,139 @@
+<<<<<<< HEAD
+l
+=======
+>>>>>>> 3fa42b51a3cbeff3c17785bbbef57efe98f187ba
+2013-07-30 04:17:07 [main] INFO  org.asteriskjava.fastagi.DefaultAgiServer  - Listening on *:4573.
+2013-07-30 04:17:42 [main] INFO  org.asteriskjava.fastagi.DefaultAgiServer  - Received connection from /127.0.0.1
+2013-07-30 04:17:42 [main] INFO  org.asteriskjava.fastagi.DefaultAgiServer  - Thread pool started.
+2013-07-30 04:17:42 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.asteriskjava.fastagi.ResourceBundleMappingStrategy  - Added mapping for 'hello.agi' to class org.raxa.audioplayer.CallHandler
+2013-07-30 04:17:42 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.asteriskjava.fastagi.internal.FastAgiConnectionHandler  - Begin AgiScript org.raxa.audioplayer.CallHandler on Asterisk-Java DaemonPool-1-thread-1
+2013-07-30 04:17:42 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.raxa.audioplayer.CallHandler  - Getting content for medicine Reminder haveing msgId30
+2013-07-30 04:17:42 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+2013-07-30 04:17:42 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.2.2.Final}
+2013-07-30 04:17:42 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+2013-07-30 04:17:42 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+2013-07-30 04:17:42 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2013-07-30 04:17:42 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000040: Configuration resource: /hibernate.cfg.xml
+2013-07-30 04:17:42 [Asterisk-Java DaemonPool-1-thread-1] WARN  org.hibernate.internal.util.xml.DTDEntityResolver  - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2013-07-30 04:17:42 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000221: Reading mappings from resource: Patient.hbm.xml
+2013-07-30 04:17:43 [Asterisk-Java DaemonPool-1-thread-1] WARN  org.hibernate.internal.util.xml.DTDEntityResolver  - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2013-07-30 04:17:43 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000221: Reading mappings from resource: IvrMsg.hbm.xml
+2013-07-30 04:17:43 [Asterisk-Java DaemonPool-1-thread-1] WARN  org.hibernate.internal.util.xml.DTDEntityResolver  - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2013-07-30 04:17:43 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000221: Reading mappings from resource: SmsMsg.hbm.xml
+2013-07-30 04:17:43 [Asterisk-Java DaemonPool-1-thread-1] WARN  org.hibernate.internal.util.xml.DTDEntityResolver  - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2013-07-30 04:17:43 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000221: Reading mappings from resource: Alert.hbm.xml
+2013-07-30 04:17:43 [Asterisk-Java DaemonPool-1-thread-1] WARN  org.hibernate.internal.util.xml.DTDEntityResolver  - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2013-07-30 04:17:43 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000221: Reading mappings from resource: PAlert.hbm.xml
+2013-07-30 04:17:43 [Asterisk-Java DaemonPool-1-thread-1] WARN  org.hibernate.internal.util.xml.DTDEntityResolver  - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2013-07-30 04:17:43 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000041: Configured SessionFactory: null
+2013-07-30 04:17:43 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2013-07-30 04:17:43 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20
+2013-07-30 04:17:43 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000006: Autocommit mode: false
+2013-07-30 04:17:43 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000401: using driver [org.gjt.mm.mysql.Driver] at URL [jdbc:mysql://127.0.0.1/atul]
+2013-07-30 04:17:43 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000046: Connection properties: {user=atul, password=****}
+2013-07-30 04:17:44 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2013-07-30 04:17:44 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.engine.jdbc.internal.LobCreatorBuilder  - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2013-07-30 04:17:44 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2013-07-30 04:17:44 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+2013-07-30 04:17:45 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.SchemaValidator  - HHH000229: Running schema validator
+2013-07-30 04:17:45 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.SchemaValidator  - HHH000102: Fetching database metadata
+2013-07-30 04:17:45 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000261: Table found: atul.alert
+2013-07-30 04:17:45 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000037: Columns: [alerttype, msgid, retrycount, scheduletime, serviceinfo, isexecuted, lasttry, pid, aid]
+2013-07-30 04:17:45 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000261: Table found: atul.ivrMsg
+2013-07-30 04:17:45 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000037: Columns: [content, id, itemnumber, ivrid]
+2013-07-30 04:17:45 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000261: Table found: atul.pAlert
+2013-07-30 04:17:45 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000037: Columns: [alerttype, paid, pid]
+2013-07-30 04:17:45 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000261: Table found: atul.patient
+2013-07-30 04:17:45 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000037: Columns: [pname, preferlanguage, snumber, pid, pnumber]
+2013-07-30 04:17:45 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000261: Table found: atul.smsMsg
+2013-07-30 04:17:45 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000037: Columns: [content, id, smsid, itemnumber]
+2013-07-30 04:17:45 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.raxa.audioplayer.CallHandler  - Successfully retreived msg content from database with msgId30
+2013-07-30 04:17:45 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.raxa.audioplayer.CallHandler  - Parsing the content of msgId(Json String)
+2013-07-30 04:17:45 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.raxa.audioplayer.CallHandler  - Playing Hello in TTS
+2013-07-30 04:17:45 [Asterisk-Java DaemonPool-1-thread-1] INFO  org.asteriskjava.fastagi.internal.FastAgiConnectionHandler  - End AgiScript org.raxa.audioplayer.CallHandler on Asterisk-Java DaemonPool-1-thread-1
+2013-07-30 04:17:46 [main] INFO  org.asteriskjava.fastagi.DefaultAgiServer  - Received connection from /127.0.0.1
+2013-07-30 04:17:46 [Asterisk-Java DaemonPool-1-thread-2] INFO  org.asteriskjava.fastagi.internal.FastAgiConnectionHandler  - Begin AgiScript org.raxa.audioplayer.CallHandler on Asterisk-Java DaemonPool-1-thread-2
+2013-07-30 04:17:46 [Asterisk-Java DaemonPool-1-thread-2] INFO  org.raxa.audioplayer.CallHandler  - Parsing the content of msgId(Json String)
+2013-07-30 04:17:46 [Asterisk-Java DaemonPool-1-thread-2] INFO  org.raxa.audioplayer.CallHandler  - Playing Atul in TTS
+2013-07-30 04:17:46 [Asterisk-Java DaemonPool-1-thread-2] INFO  org.asteriskjava.fastagi.internal.FastAgiConnectionHandler  - End AgiScript org.raxa.audioplayer.CallHandler on Asterisk-Java DaemonPool-1-thread-2
+2013-07-30 04:17:48 [main] INFO  org.asteriskjava.fastagi.DefaultAgiServer  - Received connection from /127.0.0.1
+2013-07-30 04:17:48 [Asterisk-Java DaemonPool-1-thread-3] INFO  org.asteriskjava.fastagi.internal.FastAgiConnectionHandler  - Begin AgiScript org.raxa.audioplayer.CallHandler on Asterisk-Java DaemonPool-1-thread-3
+2013-07-30 04:17:48 [Asterisk-Java DaemonPool-1-thread-3] INFO  org.raxa.audioplayer.CallHandler  - Parsing the content of msgId(Json String)
+2013-07-30 04:17:48 [Asterisk-Java DaemonPool-1-thread-3] INFO  org.raxa.audioplayer.CallHandler  - Playing This is your Medicine Reminder Today you have to take in TTS
+2013-07-30 04:17:48 [Asterisk-Java DaemonPool-1-thread-3] INFO  org.asteriskjava.fastagi.internal.FastAgiConnectionHandler  - End AgiScript org.raxa.audioplayer.CallHandler on Asterisk-Java DaemonPool-1-thread-3
+2013-07-30 04:17:52 [main] INFO  org.asteriskjava.fastagi.DefaultAgiServer  - Received connection from /127.0.0.1
+2013-07-30 04:17:52 [Asterisk-Java DaemonPool-1-thread-4] INFO  org.asteriskjava.fastagi.internal.FastAgiConnectionHandler  - Begin AgiScript org.raxa.audioplayer.CallHandler on Asterisk-Java DaemonPool-1-thread-4
+2013-07-30 04:17:52 [Asterisk-Java DaemonPool-1-thread-4] INFO  org.raxa.audioplayer.CallHandler  - Parsing the content of msgId(Json String)
+2013-07-30 04:17:52 [Asterisk-Java DaemonPool-1-thread-4] INFO  org.raxa.audioplayer.CallHandler  - Playing 6 in TTS
+2013-07-30 04:17:52 [Asterisk-Java DaemonPool-1-thread-4] INFO  org.asteriskjava.fastagi.internal.FastAgiConnectionHandler  - End AgiScript org.raxa.audioplayer.CallHandler on Asterisk-Java DaemonPool-1-thread-4
+2013-07-30 04:17:53 [main] INFO  org.asteriskjava.fastagi.DefaultAgiServer  - Received connection from /127.0.0.1
+2013-07-30 04:17:53 [Asterisk-Java DaemonPool-1-thread-5] INFO  org.asteriskjava.fastagi.internal.FastAgiConnectionHandler  - Begin AgiScript org.raxa.audioplayer.CallHandler on Asterisk-Java DaemonPool-1-thread-5
+2013-07-30 04:17:53 [Asterisk-Java DaemonPool-1-thread-5] INFO  org.raxa.audioplayer.CallHandler  - Parsing the content of msgId(Json String)
+2013-07-30 04:17:53 [Asterisk-Java DaemonPool-1-thread-5] INFO  org.raxa.audioplayer.CallHandler  - Playing tablet of in TTS
+2013-07-30 04:17:53 [Asterisk-Java DaemonPool-1-thread-5] INFO  org.asteriskjava.fastagi.internal.FastAgiConnectionHandler  - End AgiScript org.raxa.audioplayer.CallHandler on Asterisk-Java DaemonPool-1-thread-5
+2013-07-30 04:17:54 [main] INFO  org.asteriskjava.fastagi.DefaultAgiServer  - Received connection from /127.0.0.1
+2013-07-30 04:17:54 [Asterisk-Java DaemonPool-1-thread-6] INFO  org.asteriskjava.fastagi.internal.FastAgiConnectionHandler  - Begin AgiScript org.raxa.audioplayer.CallHandler on Asterisk-Java DaemonPool-1-thread-6
+2013-07-30 04:17:54 [Asterisk-Java DaemonPool-1-thread-6] INFO  org.raxa.audioplayer.CallHandler  - Parsing the content of msgId(Json String)
+2013-07-30 04:17:54 [Asterisk-Java DaemonPool-1-thread-6] INFO  org.raxa.audioplayer.CallHandler  - Playing acetamide in TTS
+2013-07-30 04:17:54 [Asterisk-Java DaemonPool-1-thread-6] INFO  org.asteriskjava.fastagi.internal.FastAgiConnectionHandler  - End AgiScript org.raxa.audioplayer.CallHandler on Asterisk-Java DaemonPool-1-thread-6
+2013-07-30 04:17:56 [main] INFO  org.asteriskjava.fastagi.DefaultAgiServer  - Received connection from /127.0.0.1
+2013-07-30 04:17:56 [Asterisk-Java DaemonPool-1-thread-7] INFO  org.asteriskjava.fastagi.internal.FastAgiConnectionHandler  - Begin AgiScript org.raxa.audioplayer.CallHandler on Asterisk-Java DaemonPool-1-thread-7
+2013-07-30 04:17:56 [Asterisk-Java DaemonPool-1-thread-7] INFO  org.raxa.audioplayer.CallHandler  - Parsing the content of msgId(Json String)
+2013-07-30 04:17:56 [Asterisk-Java DaemonPool-1-thread-7] INFO  org.raxa.audioplayer.CallHandler  - Playing Take Care in TTS
+2013-07-30 04:17:56 [Asterisk-Java DaemonPool-1-thread-7] INFO  org.asteriskjava.fastagi.internal.FastAgiConnectionHandler  - End AgiScript org.raxa.audioplayer.CallHandler on Asterisk-Java DaemonPool-1-thread-7
+2013-07-30 04:17:57 [main] INFO  org.asteriskjava.fastagi.DefaultAgiServer  - Received connection from /127.0.0.1
+2013-07-30 04:17:57 [Asterisk-Java DaemonPool-1-thread-8] INFO  org.asteriskjava.fastagi.internal.FastAgiConnectionHandler  - Begin AgiScript org.raxa.audioplayer.CallHandler on Asterisk-Java DaemonPool-1-thread-8
+2013-07-30 04:17:57 [Asterisk-Java DaemonPool-1-thread-8] INFO  org.raxa.audioplayer.CallHandler  - Parsing the content of msgId(Json String)
+2013-07-30 04:17:57 [Asterisk-Java DaemonPool-1-thread-8] INFO  org.raxa.audioplayer.CallHandler  - Playing Get Well Soon in TTS
+2013-07-30 04:17:57 [Asterisk-Java DaemonPool-1-thread-8] INFO  org.asteriskjava.fastagi.internal.FastAgiConnectionHandler  - End AgiScript org.raxa.audioplayer.CallHandler on Asterisk-Java DaemonPool-1-thread-8
+2013-07-30 04:17:59 [main] INFO  org.asteriskjava.fastagi.DefaultAgiServer  - Received connection from /127.0.0.1
+2013-07-30 04:17:59 [Asterisk-Java DaemonPool-1-thread-9] INFO  org.asteriskjava.fastagi.internal.FastAgiConnectionHandler  - Begin AgiScript org.raxa.audioplayer.CallHandler on Asterisk-Java DaemonPool-1-thread-9
+2013-07-30 04:17:59 [Asterisk-Java DaemonPool-1-thread-9] INFO  org.raxa.audioplayer.CallSuccess  - Updating Alert for alertId:261d16d9-95dc-4545-a194-91411437df8d
+2013-07-30 04:17:59 [Asterisk-Java DaemonPool-1-thread-9] INFO  org.asteriskjava.fastagi.internal.FastAgiConnectionHandler  - End AgiScript org.raxa.audioplayer.CallHandler on Asterisk-Java DaemonPool-1-thread-9
+<<<<<<< HEAD
+2013-08-17 18:16:37 [main] ERROR org.asteriskjava.fastagi.DefaultAgiServer  - Unable start AgiServer: cannot to bind to *:4573.
+java.net.BindException: Address already in use
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:376)
+	at java.net.ServerSocket.bind(ServerSocket.java:376)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at org.asteriskjava.util.internal.ServerSocketFacadeImpl.<init>(ServerSocketFacadeImpl.java:42)
+	at org.asteriskjava.fastagi.DefaultAgiServer.createServerSocket(DefaultAgiServer.java:261)
+	at org.asteriskjava.fastagi.DefaultAgiServer.startup(DefaultAgiServer.java:268)
+	at org.asteriskjava.fastagi.DefaultAgiServer.run(DefaultAgiServer.java:330)
+	at org.raxa.audioplayer.StartAudioPlayer.main(Unknown Source)
+2013-08-17 18:16:50 [main] ERROR org.asteriskjava.fastagi.DefaultAgiServer  - Unable start AgiServer: cannot to bind to *:4573.
+java.net.BindException: Address already in use
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:376)
+	at java.net.ServerSocket.bind(ServerSocket.java:376)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at org.asteriskjava.util.internal.ServerSocketFacadeImpl.<init>(ServerSocketFacadeImpl.java:42)
+	at org.asteriskjava.fastagi.DefaultAgiServer.createServerSocket(DefaultAgiServer.java:261)
+	at org.asteriskjava.fastagi.DefaultAgiServer.startup(DefaultAgiServer.java:268)
+	at org.asteriskjava.fastagi.DefaultAgiServer.run(DefaultAgiServer.java:330)
+	at org.raxa.audioplayer.StartAudioPlayer.main(Unknown Source)
+2013-08-17 18:17:34 [main] ERROR org.asteriskjava.fastagi.DefaultAgiServer  - Unable start AgiServer: cannot to bind to *:4573.
+java.net.BindException: Address already in use
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:376)
+	at java.net.ServerSocket.bind(ServerSocket.java:376)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at org.asteriskjava.util.internal.ServerSocketFacadeImpl.<init>(ServerSocketFacadeImpl.java:42)
+	at org.asteriskjava.fastagi.DefaultAgiServer.createServerSocket(DefaultAgiServer.java:261)
+	at org.asteriskjava.fastagi.DefaultAgiServer.startup(DefaultAgiServer.java:268)
+	at org.asteriskjava.fastagi.DefaultAgiServer.run(DefaultAgiServer.java:330)
+	at org.raxa.audioplayer.StartAudioPlayer.main(Unknown Source)
+2013-08-17 18:17:40 [main] ERROR org.asteriskjava.fastagi.DefaultAgiServer  - Unable start AgiServer: cannot to bind to *:4573.
+java.net.BindException: Address already in use
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:376)
+	at java.net.ServerSocket.bind(ServerSocket.java:376)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at org.asteriskjava.util.internal.ServerSocketFacadeImpl.<init>(ServerSocketFacadeImpl.java:42)
+	at org.asteriskjava.fastagi.DefaultAgiServer.createServerSocket(DefaultAgiServer.java:261)
+	at org.asteriskjava.fastagi.DefaultAgiServer.startup(DefaultAgiServer.java:268)
+	at org.asteriskjava.fastagi.DefaultAgiServer.run(DefaultAgiServer.java:330)
+	at org.raxa.audioplayer.StartAudioPlayer.main(Unknown Source)
+=======
+>>>>>>> 3fa42b51a3cbeff3c17785bbbef57efe98f187ba

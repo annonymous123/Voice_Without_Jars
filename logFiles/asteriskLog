@@ -1,0 +1,230 @@
+[Jul 28 10:09:50] Asterisk 11.4.0 built by root @ atul-Studio-1558 on a x86_64 running Linux on 2013-07-02 17:50:30 UTC
+[Jul 28 10:09:50] ERROR[3711] config_options.c: Unable to load config file 'acl.conf'
+[Jul 28 10:09:50] NOTICE[3711] cdr.c: CDR simple logging enabled.
+[Jul 28 10:09:50] NOTICE[3711] loader.c: 203 modules will be loaded.
+[Jul 28 10:09:50] NOTICE[3711] res_odbc.c: res_odbc loaded.
+[Jul 28 10:09:50] NOTICE[3711] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Jul 28 10:09:50] ERROR[3711] res_config_sqlite3.c: Missing config file 'res_config_sqlite3.conf'
+[Jul 28 10:09:50] NOTICE[3711] config.c: Registered Config Engine sqlite3
+[Jul 28 10:09:50] NOTICE[3711] chan_skinny.c: Configuring skinny from skinny.conf
+[Jul 28 10:09:50] WARNING[3711] chan_dahdi.c: Ignoring any changes to 'userbase' (on reload) at line 23.
+[Jul 28 10:09:50] WARNING[3711] chan_dahdi.c: Ignoring any changes to 'vmsecret' (on reload) at line 31.
+[Jul 28 10:09:50] WARNING[3711] chan_dahdi.c: Ignoring any changes to 'hassip' (on reload) at line 35.
+[Jul 28 10:09:50] WARNING[3711] chan_dahdi.c: Ignoring any changes to 'hasiax' (on reload) at line 39.
+[Jul 28 10:09:50] WARNING[3711] chan_dahdi.c: Ignoring any changes to 'hasmanager' (on reload) at line 47.
+[Jul 28 10:09:50] WARNING[3711] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[Jul 28 10:09:50] WARNING[3711] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[Jul 28 10:09:50] ERROR[3711] config_options.c: Unable to load config file 'confbridge.conf'
+[Jul 28 10:09:50] ERROR[3711] app_confbridge.c: Unable to load config. Not loading module.
+[Jul 28 10:09:50] NOTICE[3711] pbx_ael.c: Starting AEL load process.
+[Jul 28 10:09:50] NOTICE[3711] pbx_ael.c: AEL load process: parsed config file name '/etc/asterisk/extensions.ael'.
+[Jul 28 10:09:50] NOTICE[3711] pbx_ael.c: AEL load process: checked config file name '/etc/asterisk/extensions.ael'.
+[Jul 28 10:09:50] NOTICE[3711] pbx_ael.c: AEL load process: compiled config file name '/etc/asterisk/extensions.ael'.
+[Jul 28 10:09:50] NOTICE[3711] pbx_ael.c: AEL load process: merged config file name '/etc/asterisk/extensions.ael'.
+[Jul 28 10:09:50] NOTICE[3711] pbx_ael.c: AEL load process: verified config file name '/etc/asterisk/extensions.ael'.
+[Jul 28 10:09:50] NOTICE[3711] chan_ooh323.c: Unable to load config ooh323.conf, OOH323 disabled
+[Jul 28 10:53:07] Asterisk 11.4.0 built by root @ atul-Studio-1558 on a x86_64 running Linux on 2013-07-02 17:50:30 UTC
+[Jul 28 10:53:08] ERROR[1253] config_options.c: Unable to load config file 'acl.conf'
+[Jul 28 10:53:08] NOTICE[1253] cdr.c: CDR simple logging enabled.
+[Jul 28 10:53:08] NOTICE[1253] loader.c: 203 modules will be loaded.
+[Jul 28 10:53:08] NOTICE[1253] res_odbc.c: res_odbc loaded.
+[Jul 28 10:53:08] NOTICE[1253] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Jul 28 10:53:08] ERROR[1253] res_config_sqlite3.c: Missing config file 'res_config_sqlite3.conf'
+[Jul 28 10:53:08] NOTICE[1253] config.c: Registered Config Engine sqlite3
+[Jul 28 10:53:08] NOTICE[1253] chan_skinny.c: Configuring skinny from skinny.conf
+[Jul 28 10:53:08] WARNING[1253] chan_dahdi.c: Ignoring any changes to 'userbase' (on reload) at line 23.
+[Jul 28 10:53:08] WARNING[1253] chan_dahdi.c: Ignoring any changes to 'vmsecret' (on reload) at line 31.
+[Jul 28 10:53:08] WARNING[1253] chan_dahdi.c: Ignoring any changes to 'hassip' (on reload) at line 35.
+[Jul 28 10:53:08] WARNING[1253] chan_dahdi.c: Ignoring any changes to 'hasiax' (on reload) at line 39.
+[Jul 28 10:53:08] WARNING[1253] chan_dahdi.c: Ignoring any changes to 'hasmanager' (on reload) at line 47.
+[Jul 28 10:53:08] WARNING[1253] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[Jul 28 10:53:08] WARNING[1253] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[Jul 28 10:53:08] ERROR[1253] config_options.c: Unable to load config file 'confbridge.conf'
+[Jul 28 10:53:08] ERROR[1253] app_confbridge.c: Unable to load config. Not loading module.
+[Jul 28 10:53:08] NOTICE[1253] pbx_ael.c: Starting AEL load process.
+[Jul 28 10:53:08] NOTICE[1253] pbx_ael.c: AEL load process: parsed config file name '/etc/asterisk/extensions.ael'.
+[Jul 28 10:53:08] NOTICE[1253] pbx_ael.c: AEL load process: checked config file name '/etc/asterisk/extensions.ael'.
+[Jul 28 10:53:08] NOTICE[1253] pbx_ael.c: AEL load process: compiled config file name '/etc/asterisk/extensions.ael'.
+[Jul 28 10:53:08] NOTICE[1253] pbx_ael.c: AEL load process: merged config file name '/etc/asterisk/extensions.ael'.
+[Jul 28 10:53:08] NOTICE[1253] pbx_ael.c: AEL load process: verified config file name '/etc/asterisk/extensions.ael'.
+[Jul 28 10:53:09] NOTICE[1253] chan_ooh323.c: Unable to load config ooh323.conf, OOH323 disabled
+[Jul 28 16:34:26] Asterisk 11.4.0 built by root @ atul-Studio-1558 on a x86_64 running Linux on 2013-07-02 17:50:30 UTC
+[Jul 28 16:34:27] ERROR[1200] config_options.c: Unable to load config file 'acl.conf'
+[Jul 28 16:34:27] NOTICE[1200] cdr.c: CDR simple logging enabled.
+[Jul 28 16:34:27] NOTICE[1200] loader.c: 203 modules will be loaded.
+[Jul 28 16:34:27] NOTICE[1200] res_odbc.c: res_odbc loaded.
+[Jul 28 16:34:27] NOTICE[1200] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Jul 28 16:34:27] ERROR[1200] res_config_sqlite3.c: Missing config file 'res_config_sqlite3.conf'
+[Jul 28 16:34:27] NOTICE[1200] config.c: Registered Config Engine sqlite3
+[Jul 28 16:34:27] NOTICE[1200] chan_skinny.c: Configuring skinny from skinny.conf
+[Jul 28 16:34:27] WARNING[1200] chan_dahdi.c: Ignoring any changes to 'userbase' (on reload) at line 23.
+[Jul 28 16:34:27] WARNING[1200] chan_dahdi.c: Ignoring any changes to 'vmsecret' (on reload) at line 31.
+[Jul 28 16:34:27] WARNING[1200] chan_dahdi.c: Ignoring any changes to 'hassip' (on reload) at line 35.
+[Jul 28 16:34:27] WARNING[1200] chan_dahdi.c: Ignoring any changes to 'hasiax' (on reload) at line 39.
+[Jul 28 16:34:27] WARNING[1200] chan_dahdi.c: Ignoring any changes to 'hasmanager' (on reload) at line 47.
+[Jul 28 16:34:27] WARNING[1200] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[Jul 28 16:34:27] WARNING[1200] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[Jul 28 16:34:27] ERROR[1200] config_options.c: Unable to load config file 'confbridge.conf'
+[Jul 28 16:34:27] ERROR[1200] app_confbridge.c: Unable to load config. Not loading module.
+[Jul 28 16:34:27] NOTICE[1200] pbx_ael.c: Starting AEL load process.
+[Jul 28 16:34:27] NOTICE[1200] pbx_ael.c: AEL load process: parsed config file name '/etc/asterisk/extensions.ael'.
+[Jul 28 16:34:27] NOTICE[1200] pbx_ael.c: AEL load process: checked config file name '/etc/asterisk/extensions.ael'.
+[Jul 28 16:34:27] NOTICE[1200] pbx_ael.c: AEL load process: compiled config file name '/etc/asterisk/extensions.ael'.
+[Jul 28 16:34:27] NOTICE[1200] pbx_ael.c: AEL load process: merged config file name '/etc/asterisk/extensions.ael'.
+[Jul 28 16:34:27] NOTICE[1200] pbx_ael.c: AEL load process: verified config file name '/etc/asterisk/extensions.ael'.
+[Jul 28 16:34:28] NOTICE[1200] chan_ooh323.c: Unable to load config ooh323.conf, OOH323 disabled
+[Jul 28 19:15:33] Asterisk 11.4.0 built by root @ atul-Studio-1558 on a x86_64 running Linux on 2013-07-02 17:50:30 UTC
+[Jul 28 19:15:33] ERROR[1197] config_options.c: Unable to load config file 'acl.conf'
+[Jul 28 19:15:33] NOTICE[1197] cdr.c: CDR simple logging enabled.
+[Jul 28 19:15:33] NOTICE[1197] loader.c: 203 modules will be loaded.
+[Jul 28 19:15:33] NOTICE[1197] res_odbc.c: res_odbc loaded.
+[Jul 28 19:15:33] NOTICE[1197] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Jul 28 19:15:33] ERROR[1197] res_config_sqlite3.c: Missing config file 'res_config_sqlite3.conf'
+[Jul 28 19:15:33] NOTICE[1197] config.c: Registered Config Engine sqlite3
+[Jul 28 19:15:33] NOTICE[1197] chan_skinny.c: Configuring skinny from skinny.conf
+[Jul 28 19:15:33] WARNING[1197] chan_dahdi.c: Ignoring any changes to 'userbase' (on reload) at line 23.
+[Jul 28 19:15:33] WARNING[1197] chan_dahdi.c: Ignoring any changes to 'vmsecret' (on reload) at line 31.
+[Jul 28 19:15:33] WARNING[1197] chan_dahdi.c: Ignoring any changes to 'hassip' (on reload) at line 35.
+[Jul 28 19:15:33] WARNING[1197] chan_dahdi.c: Ignoring any changes to 'hasiax' (on reload) at line 39.
+[Jul 28 19:15:33] WARNING[1197] chan_dahdi.c: Ignoring any changes to 'hasmanager' (on reload) at line 47.
+[Jul 28 19:15:33] WARNING[1197] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[Jul 28 19:15:33] WARNING[1197] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[Jul 28 19:15:33] ERROR[1197] config_options.c: Unable to load config file 'confbridge.conf'
+[Jul 28 19:15:33] ERROR[1197] app_confbridge.c: Unable to load config. Not loading module.
+[Jul 28 19:15:34] NOTICE[1197] pbx_ael.c: Starting AEL load process.
+[Jul 28 19:15:34] NOTICE[1197] pbx_ael.c: AEL load process: parsed config file name '/etc/asterisk/extensions.ael'.
+[Jul 28 19:15:34] NOTICE[1197] pbx_ael.c: AEL load process: checked config file name '/etc/asterisk/extensions.ael'.
+[Jul 28 19:15:34] NOTICE[1197] pbx_ael.c: AEL load process: compiled config file name '/etc/asterisk/extensions.ael'.
+[Jul 28 19:15:34] NOTICE[1197] pbx_ael.c: AEL load process: merged config file name '/etc/asterisk/extensions.ael'.
+[Jul 28 19:15:34] NOTICE[1197] pbx_ael.c: AEL load process: verified config file name '/etc/asterisk/extensions.ael'.
+[Jul 28 19:15:34] NOTICE[1197] chan_ooh323.c: Unable to load config ooh323.conf, OOH323 disabled
+[Jul 28 19:41:00] NOTICE[4133][C-00000000] channel.c: Unable to request channel SIP/1000abc
+[Jul 28 19:50:11] WARNING[4766][C-00000004] file.c: File /home/atul/Desktop/record/header/header1 does not exist in any format
+[Jul 28 19:50:13] WARNING[4766][C-00000004] file.c: File /home/atul/Desktop/record/header/header2 does not exist in any format
+[Jul 28 19:50:16] WARNING[4766][C-00000004] file.c: File /home/atul/Desktop/record/footer/ending does not exist in any format
+[Jul 28 19:53:46] WARNING[4890][C-00000005] file.c: File /home/atul/Desktop/record/footer/ending does not exist in any format
+[Jul 29 10:37:40] Asterisk 11.4.0 built by root @ atul-Studio-1558 on a x86_64 running Linux on 2013-07-02 17:50:30 UTC
+[Jul 29 10:37:40] ERROR[1207] config_options.c: Unable to load config file 'acl.conf'
+[Jul 29 10:37:40] NOTICE[1207] cdr.c: CDR simple logging enabled.
+[Jul 29 10:37:40] NOTICE[1207] loader.c: 203 modules will be loaded.
+[Jul 29 10:37:40] NOTICE[1207] res_odbc.c: res_odbc loaded.
+[Jul 29 10:37:40] NOTICE[1207] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Jul 29 10:37:40] ERROR[1207] res_config_sqlite3.c: Missing config file 'res_config_sqlite3.conf'
+[Jul 29 10:37:40] NOTICE[1207] config.c: Registered Config Engine sqlite3
+[Jul 29 10:37:40] NOTICE[1207] chan_skinny.c: Configuring skinny from skinny.conf
+[Jul 29 10:37:40] WARNING[1207] chan_dahdi.c: Ignoring any changes to 'userbase' (on reload) at line 23.
+[Jul 29 10:37:40] WARNING[1207] chan_dahdi.c: Ignoring any changes to 'vmsecret' (on reload) at line 31.
+[Jul 29 10:37:40] WARNING[1207] chan_dahdi.c: Ignoring any changes to 'hassip' (on reload) at line 35.
+[Jul 29 10:37:40] WARNING[1207] chan_dahdi.c: Ignoring any changes to 'hasiax' (on reload) at line 39.
+[Jul 29 10:37:40] WARNING[1207] chan_dahdi.c: Ignoring any changes to 'hasmanager' (on reload) at line 47.
+[Jul 29 10:37:40] WARNING[1207] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[Jul 29 10:37:40] WARNING[1207] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[Jul 29 10:37:40] ERROR[1207] config_options.c: Unable to load config file 'confbridge.conf'
+[Jul 29 10:37:40] ERROR[1207] app_confbridge.c: Unable to load config. Not loading module.
+[Jul 29 10:37:41] NOTICE[1207] pbx_ael.c: Starting AEL load process.
+[Jul 29 10:37:41] NOTICE[1207] pbx_ael.c: AEL load process: parsed config file name '/etc/asterisk/extensions.ael'.
+[Jul 29 10:37:41] NOTICE[1207] pbx_ael.c: AEL load process: checked config file name '/etc/asterisk/extensions.ael'.
+[Jul 29 10:37:41] NOTICE[1207] pbx_ael.c: AEL load process: compiled config file name '/etc/asterisk/extensions.ael'.
+[Jul 29 10:37:41] NOTICE[1207] pbx_ael.c: AEL load process: merged config file name '/etc/asterisk/extensions.ael'.
+[Jul 29 10:37:41] NOTICE[1207] pbx_ael.c: AEL load process: verified config file name '/etc/asterisk/extensions.ael'.
+[Jul 29 10:37:41] NOTICE[1207] chan_ooh323.c: Unable to load config ooh323.conf, OOH323 disabled
+[Jul 29 11:47:49] Asterisk 11.4.0 built by root @ atul-Studio-1558 on a x86_64 running Linux on 2013-07-02 17:50:30 UTC
+[Jul 29 11:47:49] ERROR[1209] config_options.c: Unable to load config file 'acl.conf'
+[Jul 29 11:47:49] NOTICE[1209] cdr.c: CDR simple logging enabled.
+[Jul 29 11:47:49] NOTICE[1209] loader.c: 203 modules will be loaded.
+[Jul 29 11:47:49] NOTICE[1209] res_odbc.c: res_odbc loaded.
+[Jul 29 11:47:49] NOTICE[1209] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Jul 29 11:47:49] ERROR[1209] res_config_sqlite3.c: Missing config file 'res_config_sqlite3.conf'
+[Jul 29 11:47:49] NOTICE[1209] config.c: Registered Config Engine sqlite3
+[Jul 29 11:47:49] NOTICE[1209] chan_skinny.c: Configuring skinny from skinny.conf
+[Jul 29 11:47:49] WARNING[1209] chan_dahdi.c: Ignoring any changes to 'userbase' (on reload) at line 23.
+[Jul 29 11:47:49] WARNING[1209] chan_dahdi.c: Ignoring any changes to 'vmsecret' (on reload) at line 31.
+[Jul 29 11:47:49] WARNING[1209] chan_dahdi.c: Ignoring any changes to 'hassip' (on reload) at line 35.
+[Jul 29 11:47:49] WARNING[1209] chan_dahdi.c: Ignoring any changes to 'hasiax' (on reload) at line 39.
+[Jul 29 11:47:49] WARNING[1209] chan_dahdi.c: Ignoring any changes to 'hasmanager' (on reload) at line 47.
+[Jul 29 11:47:49] WARNING[1209] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[Jul 29 11:47:49] WARNING[1209] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[Jul 29 11:47:49] ERROR[1209] config_options.c: Unable to load config file 'confbridge.conf'
+[Jul 29 11:47:49] ERROR[1209] app_confbridge.c: Unable to load config. Not loading module.
+[Jul 29 11:47:49] NOTICE[1209] pbx_ael.c: Starting AEL load process.
+[Jul 29 11:47:49] NOTICE[1209] pbx_ael.c: AEL load process: parsed config file name '/etc/asterisk/extensions.ael'.
+[Jul 29 11:47:49] NOTICE[1209] pbx_ael.c: AEL load process: checked config file name '/etc/asterisk/extensions.ael'.
+[Jul 29 11:47:49] NOTICE[1209] pbx_ael.c: AEL load process: compiled config file name '/etc/asterisk/extensions.ael'.
+[Jul 29 11:47:49] NOTICE[1209] pbx_ael.c: AEL load process: merged config file name '/etc/asterisk/extensions.ael'.
+[Jul 29 11:47:49] NOTICE[1209] pbx_ael.c: AEL load process: verified config file name '/etc/asterisk/extensions.ael'.
+[Jul 29 11:47:50] NOTICE[1209] chan_ooh323.c: Unable to load config ooh323.conf, OOH323 disabled
+[Jul 29 13:46:33] Asterisk 11.4.0 built by root @ atul-Studio-1558 on a x86_64 running Linux on 2013-07-02 17:50:30 UTC
+[Jul 29 13:46:33] ERROR[1246] config_options.c: Unable to load config file 'acl.conf'
+[Jul 29 13:46:33] NOTICE[1246] cdr.c: CDR simple logging enabled.
+[Jul 29 13:46:33] NOTICE[1246] loader.c: 203 modules will be loaded.
+[Jul 29 13:46:33] NOTICE[1246] res_odbc.c: res_odbc loaded.
+[Jul 29 13:46:33] NOTICE[1246] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Jul 29 13:46:33] ERROR[1246] res_config_sqlite3.c: Missing config file 'res_config_sqlite3.conf'
+[Jul 29 13:46:33] NOTICE[1246] config.c: Registered Config Engine sqlite3
+[Jul 29 13:46:33] NOTICE[1246] chan_skinny.c: Configuring skinny from skinny.conf
+[Jul 29 13:46:33] WARNING[1246] chan_dahdi.c: Ignoring any changes to 'userbase' (on reload) at line 23.
+[Jul 29 13:46:33] WARNING[1246] chan_dahdi.c: Ignoring any changes to 'vmsecret' (on reload) at line 31.
+[Jul 29 13:46:33] WARNING[1246] chan_dahdi.c: Ignoring any changes to 'hassip' (on reload) at line 35.
+[Jul 29 13:46:33] WARNING[1246] chan_dahdi.c: Ignoring any changes to 'hasiax' (on reload) at line 39.
+[Jul 29 13:46:33] WARNING[1246] chan_dahdi.c: Ignoring any changes to 'hasmanager' (on reload) at line 47.
+[Jul 29 13:46:33] WARNING[1246] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[Jul 29 13:46:33] WARNING[1246] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[Jul 29 13:46:33] ERROR[1246] config_options.c: Unable to load config file 'confbridge.conf'
+[Jul 29 13:46:33] ERROR[1246] app_confbridge.c: Unable to load config. Not loading module.
+[Jul 29 13:46:34] NOTICE[1246] pbx_ael.c: Starting AEL load process.
+[Jul 29 13:46:34] NOTICE[1246] pbx_ael.c: AEL load process: parsed config file name '/etc/asterisk/extensions.ael'.
+[Jul 29 13:46:34] NOTICE[1246] pbx_ael.c: AEL load process: checked config file name '/etc/asterisk/extensions.ael'.
+[Jul 29 13:46:34] NOTICE[1246] pbx_ael.c: AEL load process: compiled config file name '/etc/asterisk/extensions.ael'.
+[Jul 29 13:46:34] NOTICE[1246] pbx_ael.c: AEL load process: merged config file name '/etc/asterisk/extensions.ael'.
+[Jul 29 13:46:34] NOTICE[1246] pbx_ael.c: AEL load process: verified config file name '/etc/asterisk/extensions.ael'.
+[Jul 29 13:46:34] NOTICE[1246] chan_ooh323.c: Unable to load config ooh323.conf, OOH323 disabled
+[Jul 29 18:14:54] Asterisk 11.4.0 built by root @ atul-Studio-1558 on a x86_64 running Linux on 2013-07-02 17:50:30 UTC
+[Jul 29 18:14:54] ERROR[1234] config_options.c: Unable to load config file 'acl.conf'
+[Jul 29 18:14:54] NOTICE[1234] cdr.c: CDR simple logging enabled.
+[Jul 29 18:14:54] NOTICE[1234] loader.c: 203 modules will be loaded.
+[Jul 29 18:14:54] NOTICE[1234] res_odbc.c: res_odbc loaded.
+[Jul 29 18:14:54] NOTICE[1234] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Jul 29 18:14:54] ERROR[1234] res_config_sqlite3.c: Missing config file 'res_config_sqlite3.conf'
+[Jul 29 18:14:54] NOTICE[1234] config.c: Registered Config Engine sqlite3
+[Jul 29 18:14:55] NOTICE[1234] chan_skinny.c: Configuring skinny from skinny.conf
+[Jul 29 18:14:55] WARNING[1234] chan_dahdi.c: Ignoring any changes to 'userbase' (on reload) at line 23.
+[Jul 29 18:14:55] WARNING[1234] chan_dahdi.c: Ignoring any changes to 'vmsecret' (on reload) at line 31.
+[Jul 29 18:14:55] WARNING[1234] chan_dahdi.c: Ignoring any changes to 'hassip' (on reload) at line 35.
+[Jul 29 18:14:55] WARNING[1234] chan_dahdi.c: Ignoring any changes to 'hasiax' (on reload) at line 39.
+[Jul 29 18:14:55] WARNING[1234] chan_dahdi.c: Ignoring any changes to 'hasmanager' (on reload) at line 47.
+[Jul 29 18:14:55] WARNING[1234] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[Jul 29 18:14:55] WARNING[1234] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[Jul 29 18:14:55] ERROR[1234] config_options.c: Unable to load config file 'confbridge.conf'
+[Jul 29 18:14:55] ERROR[1234] app_confbridge.c: Unable to load config. Not loading module.
+[Jul 29 18:14:55] NOTICE[1234] pbx_ael.c: Starting AEL load process.
+[Jul 29 18:14:55] NOTICE[1234] pbx_ael.c: AEL load process: parsed config file name '/etc/asterisk/extensions.ael'.
+[Jul 29 18:14:55] NOTICE[1234] pbx_ael.c: AEL load process: checked config file name '/etc/asterisk/extensions.ael'.
+[Jul 29 18:14:55] NOTICE[1234] pbx_ael.c: AEL load process: compiled config file name '/etc/asterisk/extensions.ael'.
+[Jul 29 18:14:55] NOTICE[1234] pbx_ael.c: AEL load process: merged config file name '/etc/asterisk/extensions.ael'.
+[Jul 29 18:14:55] NOTICE[1234] pbx_ael.c: AEL load process: verified config file name '/etc/asterisk/extensions.ael'.
+[Jul 29 18:14:56] NOTICE[1234] chan_ooh323.c: Unable to load config ooh323.conf, OOH323 disabled
+[Jul 29 20:14:11] Asterisk 11.4.0 built by root @ atul-Studio-1558 on a x86_64 running Linux on 2013-07-02 17:50:30 UTC
+[Jul 29 20:14:11] ERROR[1238] config_options.c: Unable to load config file 'acl.conf'
+[Jul 29 20:14:11] NOTICE[1238] cdr.c: CDR simple logging enabled.
+[Jul 29 20:14:11] NOTICE[1238] loader.c: 203 modules will be loaded.
+[Jul 29 20:14:11] NOTICE[1238] res_odbc.c: res_odbc loaded.
+[Jul 29 20:14:11] NOTICE[1238] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Jul 29 20:14:12] ERROR[1238] res_config_sqlite3.c: Missing config file 'res_config_sqlite3.conf'
+[Jul 29 20:14:12] NOTICE[1238] config.c: Registered Config Engine sqlite3
+[Jul 29 20:14:12] NOTICE[1238] chan_skinny.c: Configuring skinny from skinny.conf
+[Jul 29 20:14:12] WARNING[1238] chan_dahdi.c: Ignoring any changes to 'userbase' (on reload) at line 23.
+[Jul 29 20:14:12] WARNING[1238] chan_dahdi.c: Ignoring any changes to 'vmsecret' (on reload) at line 31.
+[Jul 29 20:14:12] WARNING[1238] chan_dahdi.c: Ignoring any changes to 'hassip' (on reload) at line 35.
+[Jul 29 20:14:12] WARNING[1238] chan_dahdi.c: Ignoring any changes to 'hasiax' (on reload) at line 39.
+[Jul 29 20:14:12] WARNING[1238] chan_dahdi.c: Ignoring any changes to 'hasmanager' (on reload) at line 47.
+[Jul 29 20:14:12] WARNING[1238] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[Jul 29 20:14:12] WARNING[1238] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[Jul 29 20:14:12] ERROR[1238] config_options.c: Unable to load config file 'confbridge.conf'
+[Jul 29 20:14:12] ERROR[1238] app_confbridge.c: Unable to load config. Not loading module.
+[Jul 29 20:14:12] NOTICE[1238] pbx_ael.c: Starting AEL load process.
+[Jul 29 20:14:12] NOTICE[1238] pbx_ael.c: AEL load process: parsed config file name '/etc/asterisk/extensions.ael'.
+[Jul 29 20:14:12] NOTICE[1238] pbx_ael.c: AEL load process: checked config file name '/etc/asterisk/extensions.ael'.
+[Jul 29 20:14:12] NOTICE[1238] pbx_ael.c: AEL load process: compiled config file name '/etc/asterisk/extensions.ael'.
+[Jul 29 20:14:12] NOTICE[1238] pbx_ael.c: AEL load process: merged config file name '/etc/asterisk/extensions.ael'.
+[Jul 29 20:14:12] NOTICE[1238] pbx_ael.c: AEL load process: verified config file name '/etc/asterisk/extensions.ael'.
+[Jul 29 20:14:12] NOTICE[1238] chan_ooh323.c: Unable to load config ooh323.conf, OOH323 disabled
